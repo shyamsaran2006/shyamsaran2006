@@ -1,4 +1,4 @@
-# shyamsaranzoologist
+hi there 
 <h1 align="center">🌟 Welcome to Shyam's Wild World of Science & Reptiles! 🌟</h1>
 <h1 align="center">🐍 Shyam Saran S</h1>
 <p align="center"><strong>Zoology Undergraduate</strong> | <strong>Wildlife Technologist</strong> | <strong>Computational Biologist</strong></p>
@@ -94,7 +94,7 @@ Tracked body points (head, mid-body, tail) from real videos using:
 ---
 ##  Field Engagement & Outreach
 - Attended the International Conference on Frontiers in Zoological Research, University of Madras
- -   Participated in "Ennai Thiruvāzha " elephant conservation awareness program
+ -   Participated in "Ennai Thiruvizha " elephant conservation awareness program
   -  Conducted beach cleanups at Besant Nagar and Marina Beach
    - Biodiversity Conservation Workshop at Guindy Snake Park
 
