@@ -3,7 +3,10 @@ hi there
 <h1 align="center">🐍 Shyam Saran S</h1>
 <p align="center"><strong>Zoology Undergraduate</strong> | <strong>Wildlife Technologist</strong> | <strong>Computational Biologist</strong></p>
 
----
+---<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://media1.giphy.com/media/2wV2Jc6QFkAhm3cfej/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="300"/>
+</div>
 
 ## 🧬 About Me
 
