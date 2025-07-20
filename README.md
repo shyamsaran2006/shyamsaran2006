@@ -140,16 +140,35 @@ Tracked body points (head, mid-body, tail) from real videos using:
 </p>
 
 ---
+<h2 align="left">📈 GitHub Performance Overview</h2>
 
-### 🧬 About Me
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shyamsaran2006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="200" />
 
+  <!-- Spacer -->
+  <br><br>
 
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=shyamsaran2006&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="200" />
 
-- 🐊 Studying crocodilian and snake hormonal ecology
-- 🧠 Learning molecular docking, R, and Python
-- 🐍 Obsessed with reptiles, behavior, and genetics
+  <!-- Spacer -->
+  <br><br>
+
+  <!-- Contribution Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyamsaran2006&radius=16&theme=tokyonight&area=true" height="300" alt="activity graph" />
+</div>
 
 ---
+
+<h2 align="left">🕹️ My Contributions</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shyamsaran2006/shyamsaran2006/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shyamsaran2006/shyamsaran2006/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/shyamsaran2006/shyamsaran2006/output/pacman-contribution-graph.svg">
+</picture>
+
 
 ### 🎮 Pixel Art & Tech Vibes
 
