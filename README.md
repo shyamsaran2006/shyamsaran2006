@@ -3,11 +3,6 @@ hi there
 <h1 align="center">🐍 Shyam Saran S</h1>
 <p align="center"><strong>Zoology Undergraduate</strong> | <strong>Wildlife Technologist</strong> | <strong>Computational Biologist</strong></p>
 
----<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://media1.giphy.com/media/2wV2Jc6QFkAhm3cfej/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif" width="300"/>
-</div>
-
 ## 🧬 About Me
 
 Hello! I’m **Shyam Saran S**, a passionate undergraduate in *Advanced Zoology and Biotechnology* at **Guru Nanak College, Chennai**, with a strong interest in reptiles, wildlife science, and computational biology.
@@ -53,9 +48,28 @@ Integrated behavior logs, hormonal cues, and literature into a full scientific r
 
 ---
 
-### 🧪 Molecular Docking Studies  
-*AutoDock Vina | PyMOL | AlphaFold2*
+### 🧠 Skills & Tools
 
+#### 👨‍💻 Programming  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🧬 Bioinformatics  
+![AutoDock Vina](https://img.shields.io/badge/AutoDock%20Vina-003366?style=for-the-badge&logo=biomolecular&logoColor=white)
+![PyMOL](https://img.shields.io/badge/PyMOL-009688?style=for-the-badge&logo=python&logoColor=white)
+![AlphaFold2](https://img.shields.io/badge/AlphaFold2-4A148C?style=for-the-badge&logo=deepmind&logoColor=white)
+![NCBI BLAST](https://img.shields.io/badge/NCBI%20BLAST-0033A0?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### 🤖 AI / Computer Vision  
+![DeepLabCut](https://img.shields.io/badge/DeepLabCut-880E4F?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Album](https://img.shields.io/badge/Album-424242?style=for-the-badge&logo=github&logoColor=white)
+
+ ---
 Receptor–ligand docking simulations on reptilian hormone systems:
 - T3 – THRA  
 - Cortisol – Glucocorticoid Receptor  
