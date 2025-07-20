@@ -144,13 +144,13 @@ Tracked body points (head, mid-body, tail) from real videos using:
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shyamsaran2006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shyamsaran2006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false" height="200" />
 
   <!-- Spacer -->
   <br><br>
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=shyamsaran2006&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="200" />
+  <img src="https://streak-stats.demolab.com?user=shyamsaran2006&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="200" />
 
   <!-- Spacer -->
   <br><br>
