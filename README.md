@@ -48,28 +48,6 @@ Integrated behavior logs, hormonal cues, and literature into a full scientific r
 
 ---
 
-### 🧠 Skills & Tools
-
-#### 👨‍💻 Programming  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### 🧬 Bioinformatics  
-![AutoDock Vina](https://img.shields.io/badge/AutoDock%20Vina-003366?style=for-the-badge&logo=biomolecular&logoColor=white)
-![PyMOL](https://img.shields.io/badge/PyMOL-009688?style=for-the-badge&logo=python&logoColor=white)
-![AlphaFold2](https://img.shields.io/badge/AlphaFold2-4A148C?style=for-the-badge&logo=deepmind&logoColor=white)
-![NCBI BLAST](https://img.shields.io/badge/NCBI%20BLAST-0033A0?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-#### 🤖 AI / Computer Vision  
-![DeepLabCut](https://img.shields.io/badge/DeepLabCut-880E4F?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Album](https://img.shields.io/badge/Album-424242?style=for-the-badge&logo=github&logoColor=white)
-
- ---
 Receptor–ligand docking simulations on reptilian hormone systems:
 - T3 – THRA  
 - Cortisol – Glucocorticoid Receptor  
@@ -98,17 +76,38 @@ Tracked body points (head, mid-body, tail) from real videos using:
 - 📊 Visualization of movement dynamics
 
 ---
+### 🧠 Skills & Tools
 
+<div align="center">
 
-## 🛠️ Skills
+#### 👨‍💻 Programming  
+&nbsp;  
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-| Programming         | Bioinformatics         | AI/Computer Vision  |
-|---------------------|------------------------|----------------------|
-| Python, R, Bash     | AutoDock Vina, PyMOL   | DeepLabCut, OpenCV   |
-| HTML, CSS           | AlphaFold2, NCBI BLAST | PyTorch, Albumentations |
-| Shell scripting     | SwissModel, PubChem    | Pose Estimation      |
+<br><br>
 
----
+#### 🧬 Bioinformatics  
+&nbsp;  
+<img src="https://img.shields.io/badge/AutoDock%20Vina-003366?style=for-the-badge&logo=biomolecular&logoColor=white" />
+<img src="https://img.shields.io/badge/PyMOL-009688?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AlphaFold2-4A148C?style=for-the-badge&logo=deepmind&logoColor=white" />
+<img src="https://img.shields.io/badge/NCBI%20BLAST-0033A0?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+<br><br>
+
+#### 🤖 AI / Computer Vision  
+&nbsp;  
+<img src="https://img.shields.io/badge/DeepLabCut-880E4F?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Album-424242?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
+
 ##  Field Engagement & Outreach
 - Attended the International Conference on Frontiers in Zoological Research, University of Madras
  -   Participated in "Ennai Thiruvizha " elephant conservation awareness program
